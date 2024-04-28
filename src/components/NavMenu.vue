@@ -3,7 +3,7 @@
     <RouterLink :to="{name: 'Home'}">Home</RouterLink>
     <RouterLink :to="{name: 'MealsByName'}">MealsByName</RouterLink>
     <RouterLink :to="{name: 'MealsByLetter'}">MealsByLetter</RouterLink>
-    <RouterLink :to="{name: 'MealsByIngredients'}">MealsByIngredients</RouterLink>
+    <RouterLink :to="{name: 'Ingredients'}">MealsByIngredients</RouterLink>
   </nav>
 </template>
 
